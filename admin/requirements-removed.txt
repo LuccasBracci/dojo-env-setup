@@ -1,3 +1,0 @@
-conda-forge::pandas-profiling
-nltk
-yellowbrick
